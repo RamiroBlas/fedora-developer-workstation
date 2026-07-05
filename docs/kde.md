@@ -17,3 +17,11 @@ Configurar un escritorio limpio, minimalista y productivo:
 - Menor uso del mouse.
 - Flujo centrado en KRunner y atajos.
 - Escritorios virtuales para separar contextos.
+
+## Backup inicial
+
+Se creó backup local de configuración KDE en:
+
+```
+~/Backups/kde-20260705
+```
