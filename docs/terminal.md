@@ -15,3 +15,13 @@ La configuración personalizada de Bash vive en:
 
 ```text
 configs/bash/
+
+## Bash functions
+
+Funciones personalizadas:
+
+- `mkcd <dir>`: crea una carpeta y entra en ella.
+- `extract <archivo>`: extrae formatos comprimidos comunes.
+- `gacp "mensaje"`: ejecuta `git add .`, `git commit -m` y `git push`.
+- `projects`: navega a `~/projects`.
+- `workstation`: navega al repo de la workstation.
