@@ -25,3 +25,14 @@ Funciones personalizadas:
 - `gacp "mensaje"`: ejecuta `git add .`, `git commit -m` y `git push`.
 - `projects`: navega a `~/projects`.
 - `workstation`: navega al repo de la workstation.
+
+## zoxide y fzf
+
+- `zoxide`: permite navegar rápido con `z <nombre>`.
+- `fzf`: agrega búsqueda interactiva, especialmente útil con `Ctrl + R`.
+
+Ejemplos:
+
+```bash
+z workstation
+Ctrl + R
