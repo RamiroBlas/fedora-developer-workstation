@@ -36,3 +36,12 @@ Ejemplos:
 ```bash
 z workstation
 Ctrl + R
+
+## Herramientas CLI
+
+### Lazygit
+
+Interfaz terminal para Git.
+
+```bash
+lazygit
